@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="bLa4KjEUDy9tdJzCgGzJ">
-    <mxGraphModel dx="595" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="442" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-21" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Customer places order&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="100" x="155" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-23" parent="defSsnWvi7ncCo-6CgSg-19" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=9;" value="Order Details Entered into System" vertex="1">
+          <mxGeometry height="60" width="100" x="155" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-24" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-14" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fontColor=#FF66B3;" value="Warehouse Department" vertex="1">
           <mxGeometry height="1020" width="370" x="450" y="20" as="geometry" />
