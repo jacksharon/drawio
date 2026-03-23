@@ -53,7 +53,7 @@
         <mxCell id="defSsnWvi7ncCo-6CgSg-36" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" value="Sales Order Authorized &amp;amp; Released to Warehouse" vertex="1">
           <mxGeometry height="100" width="100" x="160" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="defSsnWvi7ncCo-6CgSg-14" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fontColor=#FF66B3;" value="Esc" vertex="1">
+        <mxCell id="defSsnWvi7ncCo-6CgSg-14" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fontColor=#FF66B3;" value="Warehouse Department" vertex="1">
           <mxGeometry height="1020" width="370" x="450" y="20" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-38" parent="defSsnWvi7ncCo-6CgSg-14" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Sales Order Received by Warehouse&amp;nbsp;" vertex="1">
