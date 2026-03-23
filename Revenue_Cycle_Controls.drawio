@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="bLa4KjEUDy9tdJzCgGzJ">
-    <mxGraphModel dx="442" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="391" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,20 +16,54 @@
         <mxCell id="defSsnWvi7ncCo-6CgSg-20" parent="defSsnWvi7ncCo-6CgSg-19" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fontSize=15;fontColor=light-dark(#3333FF,#EDEDED);labelBorderColor=default;" value="START" vertex="1">
           <mxGeometry height="60" width="100" x="155" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="defSsnWvi7ncCo-6CgSg-21" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Customer places order&amp;nbsp;" vertex="1">
+        <mxCell id="defSsnWvi7ncCo-6CgSg-21" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontColor=#000000;labelBackgroundColor=#FF99FF;" value="Customer places order&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="100" x="155" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="defSsnWvi7ncCo-6CgSg-23" parent="defSsnWvi7ncCo-6CgSg-19" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=9;" value="Order Details Entered into System" vertex="1">
+        <mxCell id="defSsnWvi7ncCo-6CgSg-23" parent="defSsnWvi7ncCo-6CgSg-19" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=9;labelBorderColor=#00FF00;labelBackgroundColor=#FFCCFF;" value="Order Details Entered into System" vertex="1">
           <mxGeometry height="60" width="100" x="155" y="190" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-24" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-25" parent="defSsnWvi7ncCo-6CgSg-19" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=#66FFFF;" value="Sales Order Generated&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="100" x="155" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-26" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-29" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;entryX=0.969;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" target="defSsnWvi7ncCo-6CgSg-33" value="No-rejected">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.9999999999999" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-32" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-36" value="Yes- approved">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.82352941176475" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-27" parent="defSsnWvi7ncCo-6CgSg-19" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=#FF9933;textShadow=0;labelBorderColor=default;" value="Credit Check Approved?" vertex="1">
+          <mxGeometry height="100" width="100" x="160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-28" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-33" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#FF9999;" value="Order Rejected- Customer Notified" vertex="1">
+          <mxGeometry height="100" width="100" x="20" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-36" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" value="Sales Order Authorized &amp;amp; Released to Warehouse" vertex="1">
+          <mxGeometry height="100" width="100" x="160" y="570" as="geometry" />
+        </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-14" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fontColor=#FF66B3;" value="Warehouse Department" vertex="1">
           <mxGeometry height="1020" width="370" x="450" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-38" parent="defSsnWvi7ncCo-6CgSg-14" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Sales Order Received by Warehouse&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="135" x="100" y="40" as="geometry" />
+        </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-15" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fontColor=#67AB9F;" value="Billing/Accounts Payable" vertex="1">
           <mxGeometry height="1020" width="480" x="820" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="defSsnWvi7ncCo-6CgSg-39" edge="1" parent="defSsnWvi7ncCo-6CgSg-12" source="defSsnWvi7ncCo-6CgSg-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
