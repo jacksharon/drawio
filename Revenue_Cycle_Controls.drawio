@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
   <diagram name="Page-1" id="bLa4KjEUDy9tdJzCgGzJ">
-    <mxGraphModel dx="1190" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="2017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="defSsnWvi7ncCo-6CgSg-12" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fontSize=15;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="740" width="620" x="260" y="60" as="geometry" />
+          <mxGeometry height="1040" width="1140" x="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-19" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;" value="Sales Department" vertex="1">
-          <mxGeometry height="720" width="200" y="20" as="geometry" />
+          <mxGeometry height="1020" width="380" y="20" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-14" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;" value="Warehouse Department" vertex="1">
-          <mxGeometry height="720" width="200" x="200" y="20" as="geometry" />
+          <mxGeometry height="1020" width="260" x="380" y="20" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-15" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;" value="Billing/Accounts Payable" vertex="1">
-          <mxGeometry height="720" width="220" x="400" y="20" as="geometry" />
+          <mxGeometry height="1020" width="500" x="640" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
