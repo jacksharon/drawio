@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="defSsnWvi7ncCo-6CgSg-12" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fontSize=15;fillColor=none;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
+        <mxCell id="defSsnWvi7ncCo-6CgSg-12" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
           <mxGeometry height="1040" width="1300" x="171" y="40" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-19" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Sales Department" vertex="1">
@@ -47,7 +47,7 @@
         <mxCell id="defSsnWvi7ncCo-6CgSg-28" edge="1" parent="defSsnWvi7ncCo-6CgSg-19" source="defSsnWvi7ncCo-6CgSg-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="defSsnWvi7ncCo-6CgSg-33" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#FF9999;" value="Order Rejected- Customer Notified" vertex="1">
+        <mxCell id="defSsnWvi7ncCo-6CgSg-33" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#FF9999;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Order Rejected- Customer Notified" vertex="1">
           <mxGeometry height="100" width="100" x="20" y="470" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-36" parent="defSsnWvi7ncCo-6CgSg-19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#33FF33;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Sales Order Authorized &amp;amp; Released to Warehouse" vertex="1">
@@ -122,8 +122,14 @@
         <mxCell id="fONE25A1kcLSAqZNi2gm-4" parent="defSsnWvi7ncCo-6CgSg-15" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#00FFFF;fillColor=#f8cecc;strokeColor=#b85450;" value="Payment Received&amp;nbsp;" vertex="1">
           <mxGeometry height="100" width="100" x="209" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="UUYZNDLTQ679AGxxRLal-2" edge="1" parent="defSsnWvi7ncCo-6CgSg-15" source="fONE25A1kcLSAqZNi2gm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UUYZNDLTQ679AGxxRLal-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fONE25A1kcLSAqZNi2gm-6" parent="defSsnWvi7ncCo-6CgSg-15" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=#FF66B3;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Remittance Advice Recorded&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="100" x="199" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="UUYZNDLTQ679AGxxRLal-1" parent="defSsnWvi7ncCo-6CgSg-15" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=#FF66FF;" value="Cash Posted to Accounts Receivable" vertex="1">
+          <mxGeometry height="100" width="100" x="199" y="620" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-39" edge="1" parent="defSsnWvi7ncCo-6CgSg-12" source="defSsnWvi7ncCo-6CgSg-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="defSsnWvi7ncCo-6CgSg-38">
           <mxGeometry relative="1" as="geometry" />
