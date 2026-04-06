@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6" pages="2">
   <diagram name="Page-1" id="bLa4KjEUDy9tdJzCgGzJ">
-    <mxGraphModel dx="1400" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="defSsnWvi7ncCo-6CgSg-12" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="1040" width="1300" x="171" y="40" as="geometry" />
+          <mxGeometry height="1040" width="1300" x="174" y="40" as="geometry" />
         </mxCell>
         <mxCell id="defSsnWvi7ncCo-6CgSg-19" parent="defSsnWvi7ncCo-6CgSg-12" style="swimlane;html=1;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Sales Department" vertex="1">
           <mxGeometry height="1020" width="450" y="20" as="geometry" />
@@ -143,11 +143,17 @@
         <mxCell id="E0qAPCD3SbykFYyqpHP3-1" edge="1" parent="defSsnWvi7ncCo-6CgSg-12" source="JTXsivx-7mV8esvXA_QR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fONE25A1kcLSAqZNi2gm-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UUYZNDLTQ679AGxxRLal-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rotation=0;fillColor=#FF00FF;strokeColor=#33FFFF;fontSize=16;dashed=1;dashPattern=12 12;labelBorderColor=#FF0080;" value="Control Activity CA-01&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this control exists to block any customers who have no sufficient funds for the payment and to not advance past this stage&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="360" x="-250" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="2M9ObL2z8l0A13Hei54p-2" edge="1" parent="1" source="UUYZNDLTQ679AGxxRLal-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.233;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="defSsnWvi7ncCo-6CgSg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8J08yXBxzcriykXjim4J" name="Page 2">
-    <mxGraphModel dx="614" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
