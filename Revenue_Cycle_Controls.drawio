@@ -153,7 +153,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8J08yXBxzcriykXjim4J" name="Page 2">
-    <mxGraphModel dx="1110" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,8 +202,14 @@
         <mxCell id="pkUepz1uus0Jd89712jQ-13" parent="pkUepz1uus0Jd89712jQ-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=#67AB9F;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Shipping Authorized Verified&amp;nbsp;" vertex="1">
           <mxGeometry height="100" width="100" x="260" y="570" as="geometry" />
         </mxCell>
+        <mxCell id="wL_Hb7ZdOJzZimxM9Ngd-2" edge="1" parent="pkUepz1uus0Jd89712jQ-1" source="pkUepz1uus0Jd89712jQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wL_Hb7ZdOJzZimxM9Ngd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pkUepz1uus0Jd89712jQ-14" parent="pkUepz1uus0Jd89712jQ-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=#A9C4EB;fillColor=#d5e8d4;strokeColor=#82b366;" value="Continued Page 2&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="80" x="270" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="wL_Hb7ZdOJzZimxM9Ngd-1" parent="pkUepz1uus0Jd89712jQ-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=#3399FF;" value="Goods Dispatched to Customer&amp;nbsp;" vertex="1">
+          <mxGeometry height="140" width="80" x="270" y="880" as="geometry" />
         </mxCell>
         <mxCell id="BaHn8HNEFFQp_yyaUZKi-1" parent="1" style="swimlane;html=1;startSize=20;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" value="Billing/Accounts Payable" vertex="1">
           <mxGeometry height="1020" width="480" x="795" y="200" as="geometry" />
